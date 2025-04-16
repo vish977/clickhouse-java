@@ -52,8 +52,8 @@
         </dependency>
         <dependency>
             <groupId>com.clickhouse</groupId>
-            <artifactId>jdbc-v2</artifactId>
-            <version>${revision}</version>
+            <artifactId>clickhouse-jdbc</artifactId>
+            <version>0.3.2</version>
         </dependency>
         <dependency>
             <groupId>io.opencensus</groupId>
